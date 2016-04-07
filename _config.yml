@@ -1,0 +1,28 @@
+name: 'LONDRA Films P&D'
+favicon: null
+layout_spectrum: 0.6269351774826646
+typography_spectrum: 0.45565815875306726
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6854776667896658
+  lightness: 0.1599323854316026
+  saturation: 0.6790328929200768
+  rhythmicContrast: 0.9796432629227638
+purpose: []
