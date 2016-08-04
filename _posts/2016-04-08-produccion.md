@@ -1,19 +1,17 @@
 ---
+keywords: []
+title: ''
+datePublished: '2016-08-04T07:15:30.825Z'
+dateModified: '2016-08-04T07:15:13.672Z'
+publisher: {}
+author: []
 inFeed: true
 hasPage: true
 inNav: true
-inLanguage: null
-keywords: []
 description: PRODUCCIÓN
-datePublished: '2016-08-04T06:25:41.164Z'
-dateModified: '2016-08-04T06:24:20.483Z'
-title: ''
-author: []
-sourcePath: _posts/2016-04-08-produccion.md
-authors: []
-publisher: {}
 via: {}
 starred: true
+sourcePath: _posts/2016-04-08-produccion.md
 url: produccion/index.html
 _type: Article
 
