@@ -6,14 +6,18 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Bienvenid@ a LONDRA Films P&D '
-datePublished: '2016-08-04T06:25:51.944Z'
-dateModified: '2016-08-04T06:24:40.812Z'
+datePublished: '2016-08-04T06:30:36.851Z'
+dateModified: '2016-08-04T06:30:27.566Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-07-bienvenidos-a-londra-films-pandd.md
-authors: []
-publisher: {}
 via: {}
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: true
 _type: Blurb
 
@@ -22,6 +26,12 @@ _type: Blurb
 
 Bienvenid@ a LONDRA Films P&D 
 
-Producción & Distribución Cinemtográfica
+Producción & Distribución Cinematográfica
 
 --- Esta página está en desarrollo ---
+
+Contacto: info@londrafilms.com
+
+Tel.(591) 72190178
+
+Santa Cruz - Bolivia
