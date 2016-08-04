@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Bienvenid@ a LONDRA Films P&D '
-datePublished: '2016-08-04T06:30:36.851Z'
-dateModified: '2016-08-04T06:30:27.566Z'
+datePublished: '2016-08-04T06:33:08.097Z'
+dateModified: '2016-08-04T06:30:42.449Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-07-bienvenidos-a-londra-films-pandd.md
