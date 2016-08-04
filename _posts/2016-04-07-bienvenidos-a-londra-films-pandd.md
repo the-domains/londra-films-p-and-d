@@ -1,25 +1,21 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: false
 keywords: []
-description: 'Bienvenidos a LONDRA Films P&D'
-datePublished: '2016-04-07T15:39:43.922Z'
-dateModified: '2016-04-07T15:16:35.523Z'
+description: 'Bienvenid@ a LONDRA Films P&D '
+datePublished: '2016-08-04T06:25:51.944Z'
+dateModified: '2016-08-04T06:24:40.812Z'
 title: ''
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-04-07-bienvenidos-a-londra-films-pandd.md
-published: true
-url: bienvenidos-a-londra-films-pandd/index.html
-_type: Article
+authors: []
+publisher: {}
+via: {}
+starred: true
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98250839-c6b8-4f09-9018-be83694d7a2f.png)
