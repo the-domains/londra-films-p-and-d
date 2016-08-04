@@ -1,9 +1,11 @@
 ---
 keywords: []
 title: ''
-datePublished: '2016-08-04T07:15:30.825Z'
-dateModified: '2016-08-04T07:15:13.672Z'
-publisher: {}
+datePublished: '2016-08-04T07:23:42.074Z'
+dateModified: '2016-08-04T07:21:53.206Z'
+publisher:
+  name: Gg
+  url: 'https://youtu.be/FPgd7tqHyJA'
 author: []
 inFeed: true
 hasPage: true
