@@ -1,6 +1,6 @@
 name: LONDRA Films P&D
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.47222
 typography_spectrum: 0.75147
 title: LONDRA Films P&D
 cta:
@@ -22,8 +22,8 @@ color:
     - '#38d847'
     - '#ccd1cc'
     - '#56685c'
-  brandStrength: 0.6854776667896658
+  brandStrength: 0.5
   lightness: 0.1599323854316026
-  saturation: 0.6790328929200768
+  saturation: 0.5
   rhythmicContrast: 0.9796432629227638
 purpose: []
