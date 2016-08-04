@@ -4,8 +4,15 @@
         <description><![CDATA[LONDRA Films P&D]]></description>
         <link>https://thegrid.ai/londra-films-p-and-d/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 06:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 06:26:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/londra-films-p-and-d/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DISTRIBUCIÓN]]></title>
+            <description><![CDATA[<p>DISTRIBUCIÓN</p>]]></description>
+            <link>https://thegrid.ai/londra-films-p-and-d/distribucion/index.html</link>
+            <guid isPermaLink="false">031e1ec2-04b6-4f9c-8997-4277986180cf</guid>
+            <pubDate>Thu, 04 Aug 2016 06:25:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[PRODUCCIÓN]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb9871ed-5c16-4c3a-bdd5-fcba609c3027.png">]]></description>
@@ -18,13 +25,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/98250839-c6b8-4f09-9018-be83694d7a2f.png">]]></description>
             <link>https://thegrid.ai/londra-films-p-and-d/bienvenidos-a-londra-films-pandd/index.html</link>
             <guid isPermaLink="false">8d90169a-43fa-4b41-912c-90b85ff6fd33</guid>
-            <pubDate>Thu, 07 Apr 2016 15:39:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DISTRIBUCIÓN]]></title>
-            <description><![CDATA[<p>DISTRIBUCIÓN</p>]]></description>
-            <link>https://thegrid.ai/londra-films-p-and-d/distribucion/index.html</link>
-            <guid isPermaLink="false">031e1ec2-04b6-4f9c-8997-4277986180cf</guid>
             <pubDate>Thu, 07 Apr 2016 15:39:43 GMT</pubDate>
         </item>
     </channel>
