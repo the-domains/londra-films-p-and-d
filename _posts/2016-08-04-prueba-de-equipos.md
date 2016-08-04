@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Prueba de Equipos
-datePublished: '2016-08-04T06:51:35.517Z'
-dateModified: '2016-08-04T06:38:05.621Z'
+datePublished: '2016-08-04T06:52:22.277Z'
+dateModified: '2016-08-04T06:51:45.551Z'
 at__type: Article
 at__context: 'http://schema.org'
 title: ''
