@@ -1,23 +1,19 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: PRODUCCIÓN
-datePublished: '2016-04-08T03:16:26.716Z'
-dateModified: '2016-04-08T03:16:00.266Z'
+datePublished: '2016-08-04T06:25:41.164Z'
+dateModified: '2016-08-04T06:24:20.483Z'
 title: ''
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-04-08-produccion.md
-published: true
+authors: []
+publisher: {}
+via: {}
+starred: true
 url: produccion/index.html
 _type: Article
 
