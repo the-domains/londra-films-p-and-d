@@ -4,7 +4,7 @@
         <description><![CDATA[LONDRA Films P&D]]></description>
         <link>https://thegrid.ai/londra-films-p-and-d/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 06:38:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 06:48:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/londra-films-p-and-d/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[DISTRIBUCIÓN]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/londra-films-p-and-d/produccion/index.html</link>
             <guid isPermaLink="false">9ef77ff5-53ba-4475-8fab-8826ccd64ef3</guid>
             <pubDate>Thu, 04 Aug 2016 06:25:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/362d6cde-57ed-4333-accc-1ecd7d019709.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/362d6cde-57ed-4333-accc-1ecd7d019709.jpg</link>
+            <guid isPermaLink="false">33cfed8b-b399-46cb-ae38-a66c54f9ae16</guid>
+            <pubDate>Thu, 04 Aug 2016 06:48:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
