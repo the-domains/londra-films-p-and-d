@@ -1,37 +1,45 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: 'Bienvenid@ a LONDRA Films P&D '
-datePublished: '2016-08-04T06:51:53.171Z'
-dateModified: '2016-08-04T06:33:10.686Z'
-title: ''
-author: []
+datePublished: '2016-08-08T23:46:50.563Z'
 sourcePath: _posts/2016-04-07-bienvenidos-a-londra-films-pandd.md
-via: {}
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-08T23:46:40.080Z'
+title: ''
+publisher: {}
+description: Bienvenid@ a LONDRA Films P&D
+inLanguage: null
+inNav: false
 starred: true
 url: londra-films-home-page/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98250839-c6b8-4f09-9018-be83694d7a2f.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4acff47bdd5aa53ab7fa34cae65882cba0312ca.png)
 
-Bienvenid@ a LONDRA Films P&D 
+Bienvenid@ a LONDRA Films P&D
 
 Producción & Distribución Cinematográfica
 
 --- Esta página está en desarrollo ---
 
-Contacto: info@londrafilms.com
+Contacto: info@londrafilms.com- Tel.(591) 72190178 - Santa Cruz - Bolivia
 
-Tel.(591) 72190178
+\* **LONDRA Films P&D**
 
-Santa Cruz - Bolivia
+Productora y Distribuidora de Cine Boliviano e Internacional Independiente. Tiene una trayectoria de más de 15 años con la producción audiovisual con más de 10 largometrajes, además de Cortometrajes, Documentales y Programas Educativos, etc. Con su Productor **Gerardo Guerra**, se destacan: **DEPENDENCIA SEXUAL**, Dirigida por Rodrigo Bellott y postulada por Bolivia al OSCAR 2004\. Igualmente el cortometraje **UNICORNIO** (Ganador del Premio Eduardo Abaroa 2015). Ha realizado las Producciones extranjeras más grandes realizadas en Bolivia incluyendo: **LA CACERÍA DEL NAZI** (Canal PLUS Francia), **CHE parte 2 GUERRILLA**, Dirigida por Steven Soderbergh y protagonizada por Benicio Del Toro. La película española **TAMBIÉN LA LLUVIA **de Iciar Bollaín, ganó 3 premios GOYA incluyendo a **MEJOR PRODUCCIÓN** y estuvo entre las 9 finalistas del OSCAR a MEJOR PELÍCULA EXTRANJERA. El 2015 produce las escenas filmadas en Bolivia de **OUR BRAND IS CRISIS**, Dirigida por David Gordon Green y protagonizada por Sandra Bullock. Es la primera película de Hollywood con producción en Bolivia. Son algunos ejemplo de la calidad y capacidad de producción de **LONDRA Films P&D**.
+
+Actualmente trabaja en varios proyectos audiovisuales incluyendo la CoProducción de:
+
+**MANOS ARRIBA** - Dir. Tomás Bascopé - Ficción
+
+**LA REINA DE LOS HORNOS** - Dir. Nathalie Iriarte - Documental
+
+**OPERACIÓN SOCAVÓN** - Dir. Alejandro Villavicencio - Ficción
+
+**EL APOSTOL DE LOS ANDES** - Dir. Gerardo Guerra - Documental
+
+https://www.facebook.com/LONDRA.Films/
