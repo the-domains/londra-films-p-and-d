@@ -37,6 +37,9 @@ navigation:
   - name: EQUIPOS AUDIOVISUALES
     id: 4f71a513-c295-473b-890c-813bded00a4f
     type: content
+  - name: Facebook LONDRA Films P&D
+    url: 'http://www.facebook.com/LONDRA.Films/'
+    type: external
 favicon: null
 title: LONDRA Films P&D
 description: Producción y Distribución Cinematográfica en Bolivia
