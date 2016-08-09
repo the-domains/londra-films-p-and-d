@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-09T06:47:45.067Z'
+datePublished: '2016-08-09T06:54:09.609Z'
 sourcePath: _posts/2016-04-08-produccion.md
 inFeed: true
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T06:47:43.862Z'
+dateModified: '2016-08-09T06:47:48.058Z'
 title: ''
 publisher: {}
 description: PRODUCCIÓN
@@ -16,7 +16,7 @@ url: produccion/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb9871ed-5c16-4c3a-bdd5-fcba609c3027.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1253560c-a4f2-4b58-a019-c9b50ecf4e20.jpg)
 
 PRODUCCIÓN
 
