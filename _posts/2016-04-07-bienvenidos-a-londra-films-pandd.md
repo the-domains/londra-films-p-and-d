@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T05:41:14.502Z'
+datePublished: '2016-08-09T06:24:45.204Z'
 sourcePath: _posts/2016-04-07-bienvenidos-a-londra-films-pandd.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T05:41:13.999Z'
+dateModified: '2016-08-09T06:24:44.553Z'
 title: Home
 publisher: {}
 description: Bienvenid@ a LONDRA Films P&D
@@ -19,7 +19,7 @@ _type: Article
 
 ---
 # Home
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4acff47bdd5aa53ab7fa34cae65882cba0312ca.png)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/532af8d302cf25afb3ba691ebb2d5bb0/croprotate.png?cropheight=1167&cropwidth=5060&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fc4acff47bdd5aa53ab7fa34cae65882cba0312ca.png&x=0&y=0)
 
 Bienvenid@ a LONDRA Films P&D
 
