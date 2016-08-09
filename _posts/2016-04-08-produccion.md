@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-09T06:32:10.359Z'
+datePublished: '2016-08-09T06:47:45.067Z'
 sourcePath: _posts/2016-04-08-produccion.md
 inFeed: true
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T06:31:42.353Z'
+dateModified: '2016-08-09T06:47:43.862Z'
 title: ''
 publisher: {}
 description: PRODUCCIÓN
@@ -16,9 +16,11 @@ url: produccion/index.html
 _type: Article
 
 ---
-![Realizamos la Producción de las escenas filmadas en Bolivia, de OUR BRAND IS CRISIS](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb9871ed-5c16-4c3a-bdd5-fcba609c3027.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb9871ed-5c16-4c3a-bdd5-fcba609c3027.png)
 
 PRODUCCIÓN
 
 TAMBIÉN LA LLUVIA
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69b34052-fdb9-4b03-aa91-8049a9ad3a38.jpg)
+
+OUR BRAND IS CRISIS : Realizamos la Producción de las escenas filmadas en Bolivia, de OUR BRAND IS CRISIS
