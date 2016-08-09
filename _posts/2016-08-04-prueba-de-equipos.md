@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T05:21:17.079Z'
+datePublished: '2016-08-09T05:35:36.458Z'
 sourcePath: _posts/2016-08-04-prueba-de-equipos.md
 inFeed: false
 authors: []
@@ -8,7 +8,7 @@ keywords: []
 author: []
 at__type: Article
 via: {}
-dateModified: '2016-08-09T05:21:16.313Z'
+dateModified: '2016-08-09T05:35:35.738Z'
 title: ''
 publisher:
   name: The-grid-user-content
