@@ -1,8 +1,8 @@
 ---
 keywords: []
 title: ''
-datePublished: '2016-08-04T07:23:42.074Z'
-dateModified: '2016-08-04T07:21:53.206Z'
+datePublished: '2016-08-09T05:31:15.178Z'
+dateModified: '2016-08-09T05:31:14.486Z'
 publisher:
   name: Gg
   url: 'https://youtu.be/FPgd7tqHyJA'
@@ -12,8 +12,8 @@ hasPage: true
 inNav: true
 description: PRODUCCIÓN
 via: {}
-starred: true
 sourcePath: _posts/2016-04-08-produccion.md
+starred: true
 url: produccion/index.html
 _type: Article
 
