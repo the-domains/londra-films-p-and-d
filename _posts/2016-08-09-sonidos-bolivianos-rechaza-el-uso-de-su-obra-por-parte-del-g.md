@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-09T06:25:21.489Z'
+datePublished: '2016-08-09T06:30:12.776Z'
 sourcePath: >-
   _posts/2016-08-09-sonidos-bolivianos-rechaza-el-uso-de-su-obra-por-parte-del-g.md
-isBasedOnUrl: 'http://www.eldeber.com.bo/escenas/sonidos-bolivianos-rechaza-obra-parte.html'
+hasPage: true
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-09T06:25:20.652Z'
+dateModified: '2016-08-09T06:30:12.256Z'
 title: Sonidos Bolivianos rechaza el uso de su obra por parte del Gobierno
 app_links: []
 publisher:
@@ -24,9 +24,7 @@ description: >-
   por las fechas patrias.
 inLanguage: es
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: sonidos-bolivianos-rechaza-el-uso-de-su-obra-por-parte-del-g/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
