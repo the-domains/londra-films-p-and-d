@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-08T23:46:50.563Z'
+datePublished: '2016-08-09T05:22:31.353Z'
 sourcePath: _posts/2016-04-07-bienvenidos-a-londra-films-pandd.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-08T23:46:40.080Z'
+dateModified: '2016-08-09T05:22:30.637Z'
 title: ''
 publisher: {}
 description: Bienvenid@ a LONDRA Films P&D
