@@ -1,25 +1,25 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: Prueba de Equipos
-datePublished: '2016-08-04T06:52:22.277Z'
-dateModified: '2016-08-04T06:51:45.551Z'
-at__type: Article
-at__context: 'http://schema.org'
-title: ''
-author: []
-via: {}
+datePublished: '2016-08-09T05:21:17.079Z'
 sourcePath: _posts/2016-08-04-prueba-de-equipos.md
+inFeed: false
 authors: []
+hasPage: true
+keywords: []
+author: []
+at__type: Article
+via: {}
+dateModified: '2016-08-09T05:21:16.313Z'
+title: ''
 publisher:
   name: The-grid-user-content
   domain: the-grid-user-content.s3-us-west-2.amazonaws.com
   url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
   favicon: null
-starred: true
+at__context: 'http://schema.org'
+description: Prueba de Equipos
+inLanguage: null
+inNav: true
+starred: false
 url: prueba-de-equipos/index.html
 _type: WebPage
 
