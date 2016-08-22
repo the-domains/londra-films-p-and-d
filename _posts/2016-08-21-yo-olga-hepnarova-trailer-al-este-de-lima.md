@@ -63,16 +63,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/K4ZBREuifsk'
 title: 'YO, OLGA HEPNAROVA - TRAILER - AL ESTE DE LIMA'
-datePublished: '2016-08-21T23:57:30.499Z'
-dateModified: '2016-08-21T23:56:20.535Z'
+datePublished: '2016-08-22T00:06:01.241Z'
+dateModified: '2016-08-22T00:06:00.010Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-21-yo-olga-hepnarova-trailer-al-este-de-lima.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: yo-olga-hepnarova-trailer-al-este-de-lima/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
