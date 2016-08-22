@@ -47,7 +47,7 @@ navigation:
   - name: 5 Facebook
     url: 'http://www.facebook.com/LONDRA.Films/'
     type: external
-  - name: LONDRA Films P&D en Twitter
+  - name: 6 LONDRA Films P&D en Twitter
     url: 'https://twitter.com/LONDRAfilms'
     type: external
 favicon: null
