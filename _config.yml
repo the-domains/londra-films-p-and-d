@@ -50,6 +50,9 @@ navigation:
   - name: 6 LONDRA Films P&D en Twitter
     url: 'https://twitter.com/LONDRAfilms'
     type: external
+  - name: Escena
+    id: 3d69e32b-60a1-4545-b014-5a7981db2613
+    type: content
 favicon: null
 title: LONDRA Films P&D - Bolivia
 description: Producción y Distribución Cinematográfica en Bolivia
