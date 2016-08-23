@@ -29,9 +29,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Ding Dong test
-    url: 'http://www.eldeber.com.bo/escenas/escucha-sonido-del-ganador-ding.html'
-    type: external
   - name: Bolitas
     url: 'https://www.youtube.com/watch?v=12Xcjlnnb3c'
     type: external
