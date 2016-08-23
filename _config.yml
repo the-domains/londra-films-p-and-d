@@ -32,7 +32,7 @@ navigation:
   - name: PRODUCCIÓN
     id: 5fb114a1-19d1-494b-b0d5-a41329ca03f7
     type: content
-  - name: DITRIBUCIÓN
+  - name: DISTRIBUCIÓN
     id: 172ac70b-eb64-40a7-870c-af139e4a98a6
     type: content
   - name: Ding Dong
