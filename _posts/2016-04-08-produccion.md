@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-21T23:52:44.339Z'
+datePublished: '2016-08-23T04:42:36.627Z'
 sourcePath: _posts/2016-04-08-produccion.md
 inFeed: true
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-21T23:52:43.176Z'
+dateModified: '2016-08-23T04:42:35.904Z'
 title: ''
 publisher: {}
 description: PRODUCCIÓN
