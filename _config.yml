@@ -41,6 +41,9 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/LONDRA.Films/'
     type: external
+  - name: Twitter
+    url: 'https://twitter.com/LONDRAfilms'
+    type: external
 favicon: null
 title: LONDRA Films P&D - Bolivia
 description: Producción y Distribución Cinematográfica en Bolivia
