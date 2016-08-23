@@ -1,4 +1,3 @@
-layout_spectrum: 0.9354616794735193
 typography_spectrum: 0.3536571820732206
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.9354616794735193
 analytics:
   google: null
   facebook: null
@@ -31,6 +31,9 @@ cta:
 navigation:
   - name: PRODUCCIÓN
     id: 5fb114a1-19d1-494b-b0d5-a41329ca03f7
+    type: content
+  - name: Ding Dong
+    id: 969a4eb5-c275-4920-8790-2b9dcaa2fad5
     type: content
 favicon: null
 title: LONDRA Films P&D - Bolivia
