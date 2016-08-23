@@ -41,9 +41,6 @@ navigation:
   - name: 4. EQUIPOS AUDIOVISUALES
     id: 4f71a513-c295-473b-890c-813bded00a4f
     type: content
-  - name: 6 LONDRA Films P&D en Twitter
-    url: 'https://twitter.com/LONDRAfilms'
-    type: external
 favicon: null
 title: LONDRA Films P&D - Bolivia
 description: Producción y Distribución Cinematográfica en Bolivia
