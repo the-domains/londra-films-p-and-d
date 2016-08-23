@@ -38,6 +38,9 @@ navigation:
   - name: Ding Dong
     id: 969a4eb5-c275-4920-8790-2b9dcaa2fad5
     type: content
+  - name: Facebook
+    url: 'https://www.facebook.com/LONDRA.Films/'
+    type: external
 favicon: null
 title: LONDRA Films P&D - Bolivia
 description: Producción y Distribución Cinematográfica en Bolivia
