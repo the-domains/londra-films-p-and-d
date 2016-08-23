@@ -29,7 +29,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: 1. LONDRA Films  - home page
+  - name: 1. LONDRA Films  - homepage
     id: 8d90169a-43fa-4b41-912c-90b85ff6fd33
     type: content
   - name: Ding Dong test
