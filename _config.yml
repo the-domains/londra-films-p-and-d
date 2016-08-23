@@ -35,12 +35,12 @@ navigation:
   - name: Ding Dong test
     url: 'http://www.eldeber.com.bo/escenas/escucha-sonido-del-ganador-ding.html'
     type: external
-  - name: Bolitas
-    url: 'https://www.youtube.com/watch?v=12Xcjlnnb3c'
-    type: external
   - name: PRODUCCIÓN
     id: 5fb114a1-19d1-494b-b0d5-a41329ca03f7
     type: content
+  - name: Bolitas
+    url: 'https://www.youtube.com/watch?v=12Xcjlnnb3c'
+    type: external
 favicon: null
 title: LONDRA Films P&D - Bolivia
 description: Producción y Distribución Cinematográfica en Bolivia
