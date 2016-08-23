@@ -35,9 +35,6 @@ navigation:
   - name: DISTRIBUCIÓN
     id: 172ac70b-eb64-40a7-870c-af139e4a98a6
     type: content
-  - name: Ding Dong
-    id: 969a4eb5-c275-4920-8790-2b9dcaa2fad5
-    type: content
   - name: Facebook
     url: 'https://www.facebook.com/LONDRA.Films/'
     type: external
