@@ -1,4 +1,3 @@
-layout_spectrum: 0.8184244588483125
 typography_spectrum: 0.3198347839061171
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.8184244588483125
 analytics:
   google: null
   facebook: null
@@ -41,6 +41,9 @@ navigation:
   - name: Twitter
     url: 'https://twitter.com/LONDRAfilms'
     type: external
+  - name: Home
+    id: 843b7d0b-95d4-495b-857a-17dcd307d135
+    type: content
 favicon: null
 title: LONDRA Films P&D - Bolivia
 description: Producción y Distribución Cinematográfica en Bolivia
