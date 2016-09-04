@@ -4,8 +4,15 @@
         <description><![CDATA[LONDRA Films P&D - Bolivia]]></description>
         <link>https://thegrid.ai/londra-films/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 16:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 15:28:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/londra-films/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WELCOME]]></title>
+            <description><![CDATA[<article><h1>WELCOME</h1><p>This is a test.</p></article>]]></description>
+            <link>https://thegrid.ai/londra-films/welcome/index.html</link>
+            <guid isPermaLink="false">e16eff53-32d6-4018-ae95-dbb600600f51</guid>
+            <pubDate>Thu, 01 Sep 2016 15:28:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/15117822-261e-4b47-899d-e50a49e37b8d.jpg">]]></description>
