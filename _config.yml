@@ -29,6 +29,9 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: WELCOME
+    id: e16eff53-32d6-4018-ae95-dbb600600f51
+    type: content
   - name: Home
     id: 843b7d0b-95d4-495b-857a-17dcd307d135
     type: content
@@ -44,9 +47,6 @@ navigation:
   - name: Twitter
     url: 'https://twitter.com/LONDRAfilms'
     type: external
-  - name: WELCOME
-    id: e16eff53-32d6-4018-ae95-dbb600600f51
-    type: content
 favicon: null
 title: LONDRA Films P&D - Bolivia
 description: Producción y Distribución Cinematográfica en Bolivia
